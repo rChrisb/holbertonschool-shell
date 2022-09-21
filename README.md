@@ -1,2 +1,1 @@
-# holbertonschool-shell
-This projects allows to have a better understanding of SHELL scripting
+File: 0-current_working_directory contains a script hat prints the absolute path name of the current working directory.

@@ -1,1 +1,1 @@
-this project is about common Linux commands
+This repository contains multiple projects about common Linux commands

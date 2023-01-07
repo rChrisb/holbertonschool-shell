@@ -62,7 +62,15 @@ $
 ```
 --------------------------------------------------
 ### <p align=center>`1. What’s in there?`</p>
+Display the contents list of your current directory.
+```bash
+Example:
 
+$ ./1-listit
+Applications    Documents   Dropbox Movies Pictures
+Desktop Downloads   Library Music Public
+$
+```
 --------------------------------------------------
 ### <p align=center>`2. There is no place like home`</p>
 

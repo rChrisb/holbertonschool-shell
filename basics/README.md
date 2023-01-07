@@ -54,6 +54,12 @@ Read or watch:
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. Where am I?`</p>
 Write a script that prints the absolute path name of the current working directory.
+Example:
+```bash
+$ ./0-current_working_directory
+/0x00-shell_basics
+$
+```
 --------------------------------------------------
 ### <p align=center>`1. What’s in there?`</p>
 

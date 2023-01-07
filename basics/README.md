@@ -52,10 +52,10 @@ Read or watch:
 - [Shebang](https://intranet.hbtn.io/rltoken/_pJ5Fl2TaZVzW3jJy_mwKA)
 
 ## <p align=center>`Tasks`</p>
-### <p align=center>``</p>
+### <p align=center>`0. Where am I?`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`1. What’s in there?`</p>
 
 --------------------------------------------------
 ### <p align=center>``</p>

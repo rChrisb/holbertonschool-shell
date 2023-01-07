@@ -64,10 +64,10 @@ Read or watch:
 ### <p align=center>`3. The long format`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`4. Hidden files`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`5. I love numbers`</p>
 
 --------------------------------------------------
 ### <p align=center>``</p>

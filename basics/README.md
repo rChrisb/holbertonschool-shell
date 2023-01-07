@@ -88,10 +88,10 @@ Read or watch:
 ### <p align=center>`11. Lists`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`12. File type`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`13. We are symbols, and inhabit symbols`</p>
 
 --------------------------------------------------
 ### <p align=center>``</p>

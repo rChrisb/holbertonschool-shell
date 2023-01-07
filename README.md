@@ -5,7 +5,7 @@
 ![image](https://www.cyberciti.biz/media/new/faq/2016/01/Hello-World-Bash-Shell-Script-Program.jpg)
 
 
-## This directory contains projects on Shell Programming:
+## This directory contains these four projects on the Shell Programming language:
 - [basics](https://github.com/rChrisb/holbertonschool-shell/tree/main/basics)
 - [permissions](https://github.com/rChrisb/holbertonschool-shell/tree/main/permissions)
 - [io_redirections_and_filters](https://github.com/rChrisb/holbertonschool-shell/tree/main/io_redirections_and_filters)

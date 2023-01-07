@@ -7,6 +7,6 @@
 
 ## This directory contains projects on Shell Programming:
 - [basics](https://github.com/rChrisb/holbertonschool-shell/tree/main/basics)
-- permissions
-- io_redirections_and_filters
-- init_files_variables_and_expansions
+- [permissions]()
+- [io_redirections_and_filters]()
+- [init_files_variables_and_expansions](https://github.com/rChrisb/holbertonschool-shell/tree/main/init_files_variables_and_expansions)

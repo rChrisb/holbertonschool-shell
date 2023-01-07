@@ -76,10 +76,10 @@ Read or watch:
 ### <p align=center>`7. Betty in my first directory`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`8. Bye bye Betty`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`9. Bye bye My first directory`</p>
 
 --------------------------------------------------
 ### <p align=center>``</p>

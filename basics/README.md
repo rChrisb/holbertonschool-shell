@@ -58,10 +58,10 @@ Read or watch:
 ### <p align=center>`1. What’s in there?`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`2. There is no place like home`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`3. The long format`</p>
 
 --------------------------------------------------
 ### <p align=center>``</p>

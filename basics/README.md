@@ -70,10 +70,10 @@ Read or watch:
 ### <p align=center>`5. I love numbers`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`6. Welcome`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`7. Betty in my first directory`</p>
 
 --------------------------------------------------
 ### <p align=center>``</p>

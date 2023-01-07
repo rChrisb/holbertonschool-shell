@@ -94,10 +94,10 @@ Read or watch:
 ### <p align=center>`13. We are symbols, and inhabit symbols`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`14. Copy HTML files`</p>
 
 --------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`15. Let’s move`</p>
 
 --------------------------------------------------
 ### <p align=center>``</p>

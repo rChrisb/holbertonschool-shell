@@ -36,7 +36,11 @@ Be able to explain:
 - How to read a man page
 - What are man page sections
 - What are the section numbers for User commands, System calls and Library functions
-
-
+- Common shortcuts for Bash
+- What does LTS mean?
 ## <p align=center >`Resources`</p>
 Read or watch:
+
+
+
+## <p align=right>`Score: 100/100`</p>

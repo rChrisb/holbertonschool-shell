@@ -40,16 +40,16 @@ Be able to explain:
 - What does LTS mean?
 ## <p align=center >`Resources`</p>
 Read or watch:
-- What Is “The Shell”?
-- Navigation
-- Looking Around
-- A Guided Tour
-- Manipulating Files
-- Working With Commands
-- Reading Man pages
-- Keyboard shortcuts for Bash
-- LTS
-- Shebang
+- [What Is “The Shell”?](https://intranet.hbtn.io/rltoken/aygkrwOyI_yLtXHF1Yj0QQ)
+- [Navigation](https://intranet.hbtn.io/rltoken/fMDkg3TKjANJSPTROMQSpA)
+- [Looking Around](https://intranet.hbtn.io/rltoken/isPTWCOgTjeLaonZg8Rl5g)
+- [A Guided Tour](https://intranet.hbtn.io/rltoken/GznRkhU3QTWAWwDeZ-k9Pw)
+- [Manipulating Files](https://intranet.hbtn.io/rltoken/GA2UvOhDOjwa-NtbazvlCQ)
+- [Working With Commands](https://intranet.hbtn.io/rltoken/ylGnKaanTSp3jIpXme9krg)
+- [Reading Man pages](https://intranet.hbtn.io/rltoken/52aXMywgSkXV07rFrX8eWw)
+- [Keyboard shortcuts for Bash](https://intranet.hbtn.io/rltoken/XXe2AD3TVWvNFwSP5_-YWQ)
+- [LTS](https://wiki.ubuntu.com/LTS)
+- [Shebang](https://intranet.hbtn.io/rltoken/_pJ5Fl2TaZVzW3jJy_mwKA)
 
 
 ## <p align=right>`Score: 100/100`</p>

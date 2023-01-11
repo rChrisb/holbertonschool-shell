@@ -141,7 +141,15 @@ $
 ```
 --------------------------------------------------
 ### <p align=center>`7. Betty in my first directory`</p>
+Move the file betty from /tmp/ to /tmp/my_first_directory.
 
+Example:
+```bash
+$ ./7-movethatfile
+$ ls /tmp/my_first_directory/
+betty
+$
+```
 --------------------------------------------------
 ### <p align=center>`8. Bye bye Betty`</p>
 

@@ -163,7 +163,15 @@ $
 ```
 --------------------------------------------------
 ### <p align=center>`9. Bye bye My first directory`</p>
+Delete the directory my_first_directory that is in the /tmp directory.
 
+Example:
+```bash
+$ ./9-firstdirdeletion
+$ file /tmp/my_first_directory
+/tmp/my_first_directory: cannot open `/tmp/my_first_directory' (No such file or directory)
+$
+```
 --------------------------------------------------
 ### <p align=center>`10. Back to the future`</p>
 

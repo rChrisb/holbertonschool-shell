@@ -183,7 +183,13 @@ Write a script that lists all files (even ones with names beginning with a perio
 
 --------------------------------------------------
 ### <p align=center>`12. File type`</p>
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 
+Example
+```bash
+ubuntu@ip-172-31-63-244:~$ ./12-file_type
+/tmp/iamafile: ELF 64-bit LSB  executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.24, BuildID[sha1]=bd39c07194a778ccc066fc963ca152bdfaa3f971, stripped
+```
 --------------------------------------------------
 ### <p align=center>`13. We are symbols, and inhabit symbols`</p>
 

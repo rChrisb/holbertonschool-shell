@@ -175,6 +175,8 @@ $
 --------------------------------------------------
 ### <p align=center>`10. Back to the future`</p>
 
+Write a script that changes the working directory to the previous one.
+
 --------------------------------------------------
 ### <p align=center>`11. Lists`</p>
 

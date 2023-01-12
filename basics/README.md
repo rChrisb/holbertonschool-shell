@@ -152,7 +152,15 @@ $
 ```
 --------------------------------------------------
 ### <p align=center>`8. Bye bye Betty`</p>
+Delete the file betty.
 
+- The file betty is in /tmp/my_first_directory
+Example:
+```bash
+$ ./8-firstdelete
+$ ls /tmp/my_first_directory/
+$
+```
 --------------------------------------------------
 ### <p align=center>`9. Bye bye My first directory`</p>
 

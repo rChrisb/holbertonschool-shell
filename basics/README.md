@@ -206,6 +206,7 @@ You can assume that the directory /tmp/u will exist when we will run your script
 
 --------------------------------------------------
 ### <p align=center>`16. Clean Emacs`</p>
+Create a script that deletes all files in the current working directory that end with the character ~.
 
 --------------------------------------------------
 ### <p align=center>`17. Tree`</p>

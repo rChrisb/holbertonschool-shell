@@ -193,8 +193,10 @@ ubuntu@ip-172-31-63-244:~$ ./12-file_type
 --------------------------------------------------
 ### <p align=center>`13. We are symbols, and inhabit symbols`</p>
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+
 --------------------------------------------------
 ### <p align=center>`14. Copy HTML files`</p>
+Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 
 --------------------------------------------------
 ### <p align=center>`15. Let’s move`</p>

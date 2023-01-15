@@ -16,3 +16,7 @@ Be able to explain:
 - How to print real and effective user and group IDs
 - How to print the groups a user is in
 - How to print the effective userid
+
+## <p align=center >`Resources`</p>
+Read or watch:
+- [Permissions](https://intranet.hbtn.io/rltoken/UL7cEzRpzknNKTQ-3-zH2w)

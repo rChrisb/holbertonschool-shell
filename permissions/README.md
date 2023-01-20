@@ -23,52 +23,54 @@ Read or watch:
 
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. My name is Betty`</p>
-### <p align=center>``</p>
+
+-------------------------------------------------
+### <p align=center>`1. Who am I`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`2. Groups`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`3. New owner`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`4. Empty!`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`5. Execute`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`6. Multiple permissions`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`7. Everybody!`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`8. James Bond`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`9. John Doe`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`10. Look in the mirror`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`11. Directories`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`12. More directories`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`13. Change group`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`14. Owner and group`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`15. Symbolic links`</p>
 
 -----------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`16. If only`</p>
 
 -----------------------------------------------
 ## <p align=right>`Score: 100/100`</p>

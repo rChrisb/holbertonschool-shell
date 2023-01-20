@@ -29,6 +29,7 @@ Create a script that switches the current user to the user betty.
 - You can assume that the user betty will exist when we will run your script
 -------------------------------------------------
 ### <p align=center>`1. Who am I`</p>
+Write a script that prints the effective username of the current user.
 
 -----------------------------------------------
 ### <p align=center>`2. Groups`</p>

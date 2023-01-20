@@ -37,6 +37,7 @@ Write a script that prints all the groups the current user is part of.
 
 -----------------------------------------------
 ### <p align=center>`3. New owner`</p>
+Write a script that changes the owner of the file hello to the user betty
 
 -----------------------------------------------
 ### <p align=center>`4. Empty!`</p>

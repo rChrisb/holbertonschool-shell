@@ -41,6 +41,7 @@ Write a script that changes the owner of the file hello to the user betty
 
 -----------------------------------------------
 ### <p align=center>`4. Empty!`</p>
+Write a script that creates an empty file called hello.
 
 -----------------------------------------------
 ### <p align=center>`5. Execute`</p>

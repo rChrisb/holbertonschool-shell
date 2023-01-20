@@ -33,6 +33,7 @@ Write a script that prints the effective username of the current user.
 
 -----------------------------------------------
 ### <p align=center>`2. Groups`</p>
+Write a script that prints all the groups the current user is part of.
 
 -----------------------------------------------
 ### <p align=center>`3. New owner`</p>

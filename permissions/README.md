@@ -55,7 +55,10 @@ Write a script that adds execute permission to the owner and the group owner, an
 - The file hello will be in the working directory
 -----------------------------------------------
 ### <p align=center>`7. Everybody!`</p>
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 
+- The file hello will be in the working directory
+- You are not allowed to use commas for this script
 -----------------------------------------------
 ### <p align=center>`8. James Bond`</p>
 

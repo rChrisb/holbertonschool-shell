@@ -79,7 +79,10 @@ Write a script that sets the mode of the file hello to this:
 
 -----------------------------------------------
 ### <p align=center>`10. Look in the mirror`</p>
+Write a script that sets the mode of the file hello the same as olleh’s mode.
 
+- The file hello will be in the working directory
+- The file olleh will be in the working directory
 -----------------------------------------------
 ### <p align=center>`11. Directories`</p>
 

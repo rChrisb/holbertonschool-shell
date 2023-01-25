@@ -89,6 +89,7 @@ Create a script that adds execute permission to all subdirectories of the curren
 
 -----------------------------------------------
 ### <p align=center>`12. More directories`</p>
+Create a script that creates a directory called my_dir with permissions 751 in the working directory
 
 -----------------------------------------------
 ### <p align=center>`13. Change group`</p>

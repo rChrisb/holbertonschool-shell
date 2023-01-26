@@ -108,6 +108,8 @@ Write a script that changes the owner and the group owner of _hello to vincent a
 - The file _hello is a symbolic link
 -----------------------------------------------
 ### <p align=center>`16. If only`</p>
+Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
 
+- The file hello will be in the working directory
 -----------------------------------------------
 ## <p align=right>`Score: 100/100`</p>

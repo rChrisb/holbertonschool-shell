@@ -21,3 +21,34 @@ Be able to explain:
 Read or watch:
 - [Shell, I/O Redirection](https://intranet.hbtn.io/rltoken/dJRc-mwT3vNw7SCWZNlGcg)
 - [Special Characters](https://intranet.hbtn.io/rltoken/k2EzFVxAXrpfJMvl8-1ukQ)
+
+## <p align=center>`Tasks`</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>

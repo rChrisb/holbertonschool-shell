@@ -17,3 +17,7 @@ Be able to explain:
 - How to remove sections from each line of files
 - What is the /etc/passwd file and what is its format
 - What is the /etc/shadow file and what is its format
+## <p align=center >`Resources`</p>
+Read or watch:
+[Shell, I/O Redirection](https://intranet.hbtn.io/rltoken/dJRc-mwT3vNw7SCWZNlGcg)
+[Special Characters](https://intranet.hbtn.io/rltoken/k2EzFVxAXrpfJMvl8-1ukQ)

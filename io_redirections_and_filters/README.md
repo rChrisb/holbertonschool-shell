@@ -1,7 +1,7 @@
 <p align=center >
 <img width = 60% src = "https://linuxhint.com/wp-content/uploads/2021/08/Input-Output-Redirection-in-Ubuntu.jpg" </>
   
-  # <p align=center >`Shell, basics`</p>
+  # <p align=center >`Shell, I/O Redirections and filters`</p>
 ## <p align=center> `Project's obejectives` </p>
 Be able to explain:
 - What do the commands head, tail, find, wc, sort, uniq, grep, tr do

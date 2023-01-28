@@ -24,10 +24,12 @@ Read or watch:
 
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. Hello World`</p>
+Write a script that prints “Hello, World”, followed by a new line to the standard output.
 
 -------------------------------------------------------------------
 ### <p align=center>`1. Confused smiley`</p>
-Write a script that prints “Hello, World”, followed by a new line to the standard output.
+
+Write a script that displays a confused smiley "(Ôo)'.
 
 -------------------------------------------------------------------
 ### <p align=center>`2. Let's display a file`</p>

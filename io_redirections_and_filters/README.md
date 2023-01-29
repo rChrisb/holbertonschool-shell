@@ -133,7 +133,9 @@ $
 ```
 -------------------------------------------------------------------
 ### <p align=center>`6. Line #2`</p>
+Write a script that displays the third line of the file iacta.
 
+The file iacta will be in the working directory
 -------------------------------------------------------------------
 ### <p align=center>`7. It is a good file that cuts iron without making a noise`</p>
 

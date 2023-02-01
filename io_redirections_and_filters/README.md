@@ -142,7 +142,7 @@ The file iacta will be in the working directory
 Write a shell script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line.
 
 -------------------------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`8. Save current state of directory`</p>
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

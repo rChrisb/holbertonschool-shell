@@ -177,6 +177,7 @@ Create a script that takes a list of words as input and prints only words that a
 - Words should be sorted
 -------------------------------------------------------------------
 ### <p align=center>`14. It must be in that file`</p>
+Display lines containing the pattern “root” from the file /etc/passwd
 
 -------------------------------------------------------------------
 ### <p align=center>`15. Count that word`</p>

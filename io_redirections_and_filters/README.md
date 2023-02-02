@@ -161,7 +161,7 @@ Write a script that counts the number of directories and sub-directories in the 
 - The current and parent directories should not be taken into account
 - Hidden directories should be counted
 -------------------------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`12. What’s new`</p>
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

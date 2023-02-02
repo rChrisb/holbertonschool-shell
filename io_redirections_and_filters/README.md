@@ -162,7 +162,12 @@ Write a script that counts the number of directories and sub-directories in the 
 - Hidden directories should be counted
 -------------------------------------------------------------------
 ### <p align=center>`12. What’s new`</p>
+Create a script that displays the 10 newest files in the current directory.
 
+Requirements:
+
+- One file per line
+- Sorted from the newest to the oldest
 -------------------------------------------------------------------
 ### <p align=center>`13. Being unique is better than being perfect`</p>
 

@@ -181,6 +181,7 @@ Display lines containing the pattern “root” from the file /etc/passwd
 
 -------------------------------------------------------------------
 ### <p align=center>`15. Count that word`</p>
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

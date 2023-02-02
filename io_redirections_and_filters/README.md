@@ -170,7 +170,11 @@ Requirements:
 - Sorted from the newest to the oldest
 -------------------------------------------------------------------
 ### <p align=center>`13. Being unique is better than being perfect`</p>
+Create a script that takes a list of words as input and prints only words that appear exactly once.
 
+- Input format: One line, one word
+- Output format: One line, one word
+- Words should be sorted
 -------------------------------------------------------------------
 ### <p align=center>`14. It must be in that file`</p>
 

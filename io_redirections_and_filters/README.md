@@ -164,7 +164,7 @@ Write a script that counts the number of directories and sub-directories in the 
 ### <p align=center>`12. What’s new`</p>
 
 -------------------------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`13. Being unique is better than being perfect`</p>
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

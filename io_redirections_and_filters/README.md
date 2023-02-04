@@ -185,6 +185,7 @@ Display the number of lines that contain the pattern “bin” in the file /etc/
 
 -------------------------------------------------------------------
 ### <p align=center>`16. What's next?`</p>
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

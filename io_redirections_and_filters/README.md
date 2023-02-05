@@ -206,6 +206,7 @@ Create a script that removes all letters c and C from input.
 
 -------------------------------------------------------------------
 ### <p align=center>`21. esreveR`</p>
+Write a script that reverse its input.
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

@@ -202,6 +202,7 @@ Replace all characters A and c from input to Z and e respectively.
 
 -------------------------------------------------------------------
 ### <p align=center>`20. Without C, you would live in hiago`</p>
+Create a script that removes all letters c and C from input.
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

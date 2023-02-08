@@ -209,7 +209,7 @@ Create a script that removes all letters c and C from input.
 Write a script that reverse its input.
 
 -------------------------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`22. DJ Cut Killer`</p>
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

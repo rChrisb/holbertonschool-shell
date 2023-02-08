@@ -210,7 +210,9 @@ Write a script that reverse its input.
 
 -------------------------------------------------------------------
 ### <p align=center>`22. DJ Cut Killer`</p>
+Write a script that displays all users and their home directories, sorted by users.
 
+- Based on the the /etc/passwd file
 -------------------------------------------------------------------
 ### <p align=center>``</p>
 

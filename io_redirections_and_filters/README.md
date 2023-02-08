@@ -220,7 +220,7 @@ Write a script that displays all users and their home directories, sorted by use
 ### <p align=center>`24. A gif is worth ten thousand words`</p>
 
 -------------------------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`25. Acrostic`</p>
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

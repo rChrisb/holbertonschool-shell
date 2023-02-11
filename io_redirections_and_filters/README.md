@@ -245,12 +245,7 @@ Create a script that decodes acrostics that use the first letter of each line.
 ### <p align=center>`The biggest fan`</p>
 
 -------------------------------------------------------------------
-### <p align=center>``</p>
 
--------------------------------------------------------------------
-### <p align=center>``</p>
-
--------------------------------------------------------------------
 
 
 ## <p align=right>`Score: 100/100`</p>

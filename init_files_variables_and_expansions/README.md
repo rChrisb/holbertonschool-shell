@@ -1,1 +1,1 @@
-this project is about common Linux init files, variables and expansions commands
+## <p align=right>`Score: 100/100`</p>

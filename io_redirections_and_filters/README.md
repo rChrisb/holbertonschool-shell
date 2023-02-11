@@ -242,7 +242,7 @@ Create a script that decodes acrostics that use the first letter of each line.
 - The ‘decoded’ message has to end with a new line
 - You are not allowed to use grep, egrep, fgrep or rgrep
 -------------------------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`The biggest fan`</p>
 
 -------------------------------------------------------------------
 ### <p align=center>``</p>

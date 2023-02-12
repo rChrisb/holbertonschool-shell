@@ -1,3 +1,6 @@
+![image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*F20fM4cjs0LqvbaZ8BN2oA.jpeg)
+
+
 # <p align=center >`Shell, init files, variables and expansions`</p>
 ## <p align=center> `Project's obejectives` </p>
 Be able to explain:

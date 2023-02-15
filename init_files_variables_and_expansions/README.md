@@ -26,7 +26,7 @@ Be able to explain:
 ## <p align=center >`Resources`</p>
 - Read or watch:
 - [Expansions](https://intranet.hbtn.io/rltoken/qvjamZX_aoZmdZOiEapxzw)
-- [Shell Arithmetic]()
+- [Shell Arithmetic](https://intranet.hbtn.io/rltoken/CuAnsjJ9mg_y-zBVwmn7mg)
 - [Variables]()
 - [Shell initialization files]()
 - [The alias Command]()

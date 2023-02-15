@@ -29,7 +29,7 @@ Be able to explain:
 - [Shell Arithmetic](https://intranet.hbtn.io/rltoken/CuAnsjJ9mg_y-zBVwmn7mg)
 - [Variables](https://intranet.hbtn.io/rltoken/vjgJv9-2mvkhoMT05Mk-VA)
 - [Shell initialization files](https://intranet.hbtn.io/rltoken/0DxDIIG_UpoM7cKGhsuVWw)
-- [The alias Command]()
+- [The alias Command](https://intranet.hbtn.io/rltoken/vOCzCs3YAUxGZlfD4PTeeg)
 - [Technical Writing]()
 
 

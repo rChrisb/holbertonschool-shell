@@ -28,7 +28,7 @@ Be able to explain:
 - [Expansions](https://intranet.hbtn.io/rltoken/qvjamZX_aoZmdZOiEapxzw)
 - [Shell Arithmetic](https://intranet.hbtn.io/rltoken/CuAnsjJ9mg_y-zBVwmn7mg)
 - [Variables](https://intranet.hbtn.io/rltoken/vjgJv9-2mvkhoMT05Mk-VA)
-- [Shell initialization files]()
+- [Shell initialization files](https://intranet.hbtn.io/rltoken/0DxDIIG_UpoM7cKGhsuVWw)
 - [The alias Command]()
 - [Technical Writing]()
 

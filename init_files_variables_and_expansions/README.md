@@ -23,6 +23,15 @@ Be able to explain:
 - How to execute commands from a file in the current shell
 
 
+## <p align=center >`Resources`</p>
+- Read or watch:
+- Expansions
+- Shell Arithmetic
+- Variables
+- Shell initialization files
+- The alias Command
+- Technical Writing
+
 
 
 ## <p align=right>`Score: 100/100`</p>

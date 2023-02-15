@@ -25,12 +25,12 @@ Be able to explain:
 
 ## <p align=center >`Resources`</p>
 - Read or watch:
-- Expansions
-- Shell Arithmetic
-- Variables
-- Shell initialization files
-- The alias Command
-- Technical Writing
+- [Expansions]()
+- [Shell Arithmetic]()
+- [Variables]()
+- [Shell initialization files]()
+- [The alias Command]()
+- [Technical Writing]()
 
 
 

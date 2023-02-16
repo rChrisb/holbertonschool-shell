@@ -32,6 +32,26 @@ Be able to explain:
 - [The alias Command](https://intranet.hbtn.io/rltoken/vOCzCs3YAUxGZlfD4PTeeg)
 - [Technical Writing](https://intranet.hbtn.io/rltoken/Q8zTND7LWon8lD__raFNUw)
 
+## <p align=center>`Tasks`</p>
+### <p align=center>`0. <o>`</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
 
 
 ## <p align=right>`Score: 100/100`</p>

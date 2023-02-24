@@ -98,7 +98,7 @@ Write a script that converts a number from base 10 to base 16.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`15. Everyone is a proponent of strong encryption`</p>
-
+Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`16. The eggs of the brood need to be an odd number`</p>

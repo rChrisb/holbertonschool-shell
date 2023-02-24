@@ -97,7 +97,7 @@ Write a script that converts a number from base 10 to base 16.
 - The script should display the number in base 16, followed by a new line
 
 ----------------------------------------------------------------------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`15. Everyone is a proponent of strong encryption`</p>
 
 
 ----------------------------------------------------------------------------------------------------------------

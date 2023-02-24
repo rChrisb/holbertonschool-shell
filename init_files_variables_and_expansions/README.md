@@ -102,7 +102,7 @@ Write a script that converts a number from base 10 to base 16.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`16. The eggs of the brood need to be an odd number`</p>
-
+Write a script that prints every other line from the input, starting with the first line.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>``</p>

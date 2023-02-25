@@ -34,7 +34,10 @@ Be able to explain:
 
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. <o>`</p>
+Create a script that creates an alias.
 
+- Name: ls
+- Value: rm *
 
 
 ----------------------------------------------------------------------------------------------------------------

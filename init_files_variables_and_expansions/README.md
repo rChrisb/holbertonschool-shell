@@ -42,7 +42,7 @@ Create a script that creates an alias.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`1. Hello you`</p>
-
+Create a script that prints hello user, where user is the current Linux user.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`2. The path to success is to take massive, determined action`</p>

@@ -56,9 +56,11 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 ### <p align=center>`4. Global variables`</p>
 
 Create a script that lists environment variables.
+
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`5. Local variables`</p>
 
+Create a script that lists all local variables and environment variables, and functions.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`6. Local variable`</p>

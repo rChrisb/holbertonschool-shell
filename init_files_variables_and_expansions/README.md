@@ -64,7 +64,10 @@ Create a script that lists all local variables and environment variables, and fu
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`6. Local variable`</p>
+Create a script that creates a new local variable.
 
+Name: BEST
+Value: School
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`7. Global variable`</p>

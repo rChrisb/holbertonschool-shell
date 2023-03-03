@@ -78,7 +78,7 @@ Value: School
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`8. Every addition to true knowledge is an addition to human power`</p>
-
+Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`9. Divide and rule`</p>

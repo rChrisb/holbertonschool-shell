@@ -71,7 +71,10 @@ Value: School
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`7. Global variable`</p>
+Create a script that creates a new global variable.
 
+Name: BEST
+Value: School
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`8. Every addition to true knowledge is an addition to human power`</p>

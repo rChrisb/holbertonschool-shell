@@ -86,7 +86,10 @@ Write a script that prints the result of the addition of 128 with the value stor
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath`</p>
+Write a script that displays the result of BREATH to the power LOVE
 
+- BREATH and LOVE are environment variables
+- The script should display the result, followed by a new line
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`11. There are 10 types of people in the world -- Those who understand binary, and those who don't`</p>

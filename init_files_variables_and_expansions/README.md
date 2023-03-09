@@ -50,7 +50,7 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`3. If the path be beautiful, let us not ask where it leads`</p>
-
+Create a script that counts the number of directories in the PATH.
 
 ----------------------------------------------------------------------------------------------------------------
 ### <p align=center>`4. Global variables`</p>
